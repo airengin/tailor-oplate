@@ -1,0 +1,29 @@
+{
+  "name": "tailor-spa",
+  "version": "1.0.0",
+  "description": "This is a RiotJS Single Page Application ported from [riotcodesplit](https://github.com/prateekbh/riotcodesplit)",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack",
+    "start-tailor": "node -harmony main.js"
+  },
+  "author": "Vignesh Shanmugam",
+  "license": "MIT",
+  "dependencies": {
+    "node-tailor": "^1.1.0",
+    "riot": "^2.6.1",
+    "tag-loader": "^0.3.0"
+  },
+  "devDependencies": {
+  },
+  "repository": {
+  },
+  "keywords": [
+    "tailor",
+    "spa"
+  ],
+  "bugs": {
+    "url": "https://github.com/vigneshshanmugam/tailor-spa/issues"
+  },
+  "homepage": "https://github.com/vigneshshanmugam/tailor-spa#readme"
+}
